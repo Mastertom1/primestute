@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thomas
-- 👀 I’m interested in data analyst and machine learning
+- 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently learning data analysis at Udacity
 - 📫 How to reach me primestute@gmail.com
 
